@@ -101,4 +101,4 @@ The generated static assets can be served from any static hosting platform such 
 
 This frontend requires the corresponding serverless backend to be deployed first.
 
-See the [backend repository](backend-repository-url) for the Lambda implementation, API Gateway configuration, deployment instructions, and backend integration details.
+See the [backend repository](https://github.com/AliNaeemCh/serverless-ocr) for the Lambda implementation, API Gateway configuration, deployment instructions, and backend integration details.
